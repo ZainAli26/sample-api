@@ -1,12 +1,6 @@
-# sample-api
-
-It's a sample project for building APIs with typescript and express
-
----
-
 # Project Name
 
-Short description of the project.
+It's a sample project for building APIs with typescript and express
 
 ## Table of Contents
 
