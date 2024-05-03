@@ -1,6 +1,6 @@
 # sample-api
 
-Below is a basic README template for sample-api project that can be built using npm:
+It's a sample project for building APIs with typescript and express
 
 ---
 
