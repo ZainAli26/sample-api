@@ -1,4 +1,4 @@
-# Project Name
+# Sample Code for API Development 
 
 It's a sample project for building APIs with typescript and express
 
